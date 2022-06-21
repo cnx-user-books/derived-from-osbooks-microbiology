@@ -393,7 +393,6 @@
 <item><emphasis>cytochrome oxidase</emphasis> final ETS complex used in aerobic respiration that transfers energy-depleted electrons to oxygen to form H<sub>2</sub>O</item>
 <item><emphasis>cytokine storm</emphasis> an excessive release of cytokines, typically triggered by a superantigen, that results in unregulated activation of T cells</item>
 <item><emphasis>cytokines</emphasis> protein molecules that act as a chemical signals; produced by cells in response to a stimulation event</item>
-<item><emphasis>cytokinesis</emphasis>division of the cytoplasm following mitosis that forms two daughter cells</item>
 <item><emphasis>cytomegalovirus (CMV) infection</emphasis> human herpesvirus 5 infection that is typically asymptomatic but can become serious in immunocompromised patients, transplant recipients, and developing fetuses</item>
 <item><emphasis>cytopathic effect</emphasis> cell abnormality resulting from a viral infection</item>
 <item><emphasis>cytoplasm</emphasis> the gel-like material composed of water and dissolved or suspended chemicals contained within the plasma membrane of a cell</item>
@@ -562,6 +561,7 @@
 <item><emphasis>eukaryote</emphasis> an organism made up of one or more cells that contain a membrane-bound nucleus and organelles</item>
 <item><emphasis>eukaryotic cell</emphasis> has a nucleus surrounded by a complex nuclear membrane that contains multiple, rod-shaped chromosomes</item>
 <item><emphasis>eustachian tube</emphasis> small passage between the nasopharynx and the middle ear that allows pressure to equalize across the tympanic membrane</item>
+<item><emphasis>eutrophs</emphasis> microorganisms that require a copious amount of organic nutrients; also called copiotrophs</item>
 <item><emphasis>excystment</emphasis> the process of emerging from a cyst</item>
 <item><emphasis>exergonic reaction</emphasis> chemical reaction that does not require energy beyond activation energy to proceed; releases energy when the reaction occurs</item>
 <item><emphasis>exocytosis</emphasis> the release of the contents of transport vesicles to the cell’s exterior by fusion of the transport vesicle’s membrane with the plasma membrane</item>
@@ -821,7 +821,6 @@
 <item><emphasis>intermediate filament</emphasis> one of a diverse group of cytoskeletal fibers that act as cables within the cell and anchor the nucleus, comprise the nuclear lamina, or contribute to the formation of desmosomes</item>
 <item><emphasis>intermediate host</emphasis> a host in which a parasite goes through some stages of its life cycle before migrating to the definitive host</item>
 <item><emphasis>intermittent common source spread</emphasis> a mode of disease transmission in which every infection originates from the same source and that source produces infections for a period before stopping and then starting again</item>
-<item><emphasis>interphase</emphasis>period of the cell cycle leading up to mitosis; includes G1, S, and G2 phases (the interim period between two consecutive cell divisions</item>
 <item><emphasis>intertrigo</emphasis> a rash that occurs in a skin fold</item>
 <item><emphasis>intestinal fluke</emphasis> a trematode worm that infects the intestine, often caused by <emphasis effect="italics">Fasciolopsis buski</emphasis></item>
 <item><emphasis>intracellular targeting toxin</emphasis> <emphasis effect="italics">see A-B exotoxin</emphasis></item>
@@ -851,7 +850,6 @@
 <section id="fs-id1167660394290">
 <title>K</title>
 <list id="fs-id1167662876536">
-<item><emphasis>karyokinesis</emphasis>mitotic nuclear division</item>
 <item><emphasis>keratin</emphasis> a fibrous protein found in hair, nails, and skin</item>
 <item><emphasis>keratitis</emphasis> inflammation of the cornea</item>
 <item><emphasis>keratoconjunctivitis</emphasis> inflammation of both the cornea and the conjunctiva</item>
@@ -955,7 +953,6 @@
 <item><emphasis>median infectious dose (ID<sub>50</sub>)</emphasis> concentration of pathogen that will produce active infection in 50% of test animals inoculated</item>
 <item><emphasis>median lethal dose (LD<sub>50</sub>)</emphasis> concentration of pathogen that kills 50% of infected test animals</item>
 <item><emphasis>medulla</emphasis> loosely packed layer of fungal filaments located underneath the cortex of a lichen</item>
-<item><emphasis>meiosis</emphasis>a two-stage nuclear division process that results in four genetically distinct gametes</item>
 <item><emphasis>membrane attack complex (MAC)</emphasis> ring structure formed from complement proteins C6 through C9 that penetrates the membranes of a targeted cell, causing cell lysis and death</item>
 <item><emphasis>membrane filtration</emphasis> method to remove bacteria from liquid, typically heat-sensitive solutions, using filters with an effective pore size of 0.2 µm or smaller, depending on need</item>
 <item><emphasis>membrane filtration technique</emphasis> known volumes are vacuum filtered aseptically through a membrane with a pore size small enough to trap microorganisms, which are counted after growth on plates</item>
@@ -985,7 +982,7 @@
 <item><emphasis>microbe</emphasis> generally, an organism that is too small to be seen without a microscope; also known as a microorganism</item>
 <item><emphasis>microbial death curve</emphasis> graphical representation of the progress of a particular microbial control protocol</item>
 <item><emphasis>microbial ecology</emphasis> study of the interactions between microbial populations microbiology the study of microorganisms</item>
-<item><emphasis>microbiome</emphasis> all prokaryotic and eukaryotic microorganisms and their genetic material that are associated with a certain organism</item>
+<item><emphasis>microbiome</emphasis> all prokaryotic and eukaryotic microorganisms that are associated with a certain organism</item>
 <item><emphasis>microfilament</emphasis> cytoskeletal fiber composed of actin filaments</item>
 <item><emphasis>microinjection</emphasis> the direct injection of DNA into the cytoplasm of a eukaryotic cell using a glass micropipette</item>
 <item><emphasis>micronucleus</emphasis> smaller nucleus in ciliate protists that have two nuclei; diploid, somatic, and used for sexual reproduction through conjugation</item>
@@ -1003,8 +1000,6 @@
 <item><emphasis>missense mutation</emphasis> point mutation that results in a different amino acid being incorporated into the resulting polypeptide</item>
 <item><emphasis>mitochondrial matrix</emphasis> the innermost space of the mitochondrion enclosed by two membranes; the location of many metabolic enzymes as well as the mitochondrial DNA and 70S ribosomes</item>
 <item><emphasis>mitochondrion (plural: mitochondria)</emphasis> large, complex organelle that is the site of cellular respiration in eukaryotic cells</item>
-<item><emphasis>mitosis</emphasis>(also, karyokinesis) period of the cell cycle during which the duplicated chromosomes are separated into identical nuclei; includes prophase, prometaphase, metaphase, anaphase, and telophase</item>
-<item><emphasis>mitotic phase</emphasis>period of the cell cycle during which duplicated chromosomes are distributed into two nuclei and cytoplasmic contents are divided; includes karyokinesis (mitosis) and cytokinesis</item>
 <item><emphasis>mode of action</emphasis> way in which a drug affects a microbe at the cellular level</item>
 <item><emphasis>moist-heat sterilization</emphasis> protocol that involves steam under pressure in an autoclave, allowing the steam to reach temperatures higher than the boiling point of water</item>
 <item><emphasis>mold</emphasis> a multicellular fungus, typically made up of long filaments</item>
@@ -1121,6 +1116,7 @@
 <item><emphasis>oil immersion lens</emphasis> a special objective lens on a microscope designed to be used with immersion oil to improve resolution</item>
 <item><emphasis>Okazaki fragment</emphasis> short fragment of DNA made during lagging strand synthesis</item>
 <item><emphasis>oligopeptide</emphasis> peptide having up to approximately 20 amino acids</item>
+<item><emphasis>oligotroph</emphasis> organism capable of living in low-nutrient environments</item>
 <item><emphasis>opacity</emphasis> the property of absorbing or blocking light</item>
 <item><emphasis>operator</emphasis> DNA sequence located between the promoter region and the first coding gene to which a repressor protein can bind</item>
 <item><emphasis>operon</emphasis> a group of genes with related functions often found clustered together within the prokaryotic chromosome and transcribed under the control of a single promoter and operator repression sequence</item>
@@ -1787,5 +1783,5 @@
 </list>
 </section>
 </section>
- </content>
+</content>
 </document>
