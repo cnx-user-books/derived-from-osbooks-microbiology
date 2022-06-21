@@ -1,0 +1,82 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col30973</md:content-id>
+    <md:title>IPC 101:Basic &amp; Applied Sciences MICROBIOLOGY</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>6243fe3d-7769-4b33-aa7d-8c14034caaeb</md:uuid>
+<md:slug>ipc-101-basic-applied-sciences-microbiology</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>The Cell</md:title>
+      <col:content>
+        <col:module document="m58789"/>
+        <col:module document="m58790"/>
+        <col:module document="m58791"/>
+        <col:module document="m58792"/>
+        <col:module document="m58793"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Acellular Pathogens</md:title>
+      <col:content>
+        <col:module document="m58807"/>
+        <col:module document="m58808"/>
+        <col:module document="m58809"/>
+        <col:module document="m58810"/>
+        <col:module document="m58811"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Microbial Metabolism</md:title>
+      <col:content>
+        <col:module document="m58818"/>
+        <col:module document="m58819"/>
+        <col:module document="m58820"/>
+        <col:module document="m58821"/>
+        <col:module document="m58822"/>
+        <col:module document="m58823"/>
+        <col:module document="m58824"/>
+        <col:module document="m58825"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Microbial Growth</md:title>
+      <col:content>
+        <col:module document="m58827"/>
+        <col:module document="m58828"/>
+        <col:module document="m58829"/>
+        <col:module document="m58830"/>
+        <col:module document="m58831"/>
+        <col:module document="m58832"/>
+        <col:module document="m58833"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Control of Microbial Growth</md:title>
+      <col:content>
+        <col:module document="m58852"/>
+        <col:module document="m58853"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Microbial Mechanisms of Pathogenicity</md:title>
+      <col:content>
+        <col:module document="m58865"/>
+        <col:module document="m58866"/>
+        <col:module document="m58867"/>
+        <col:module document="m58868"/>
+        <col:module document="m58869"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Innate Nonspecific Host Defenses</md:title>
+      <col:content>
+        <col:module document="m58876"/>
+        <col:module document="m58881"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m58949"/>
+  </col:content>
+</col:collection>
